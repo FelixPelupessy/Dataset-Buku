@@ -1,0 +1,6 @@
+from sklearn.metrics import confusion_matrix, classification_report
+
+predictions = model.predict(test_images)
+cm = confusion_matrix(test_labels.argmax(axis=1), predictions.argmax(axis=1))
+print(cm)
+print(classification_report(test_labels, predictions))
