@@ -1,0 +1,3 @@
+Akurasi Model: Catat akurasi yang diperoleh setelah evaluasi. Misalnya, jika akurasi mencapai 92%, catat hasil tersebut.
+
+Matriks Kebingungan: Tampilkan matriks kebingungan untuk memberikan gambaran tentang performa model dalam mengklasifikasikan setiap kelas.
